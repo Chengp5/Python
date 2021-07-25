@@ -1,0 +1,91 @@
+***************************************************
+Story:            mc160.dev.0
+Author:           2670363255
+Work Time(s):     1446
+
+It was Jessie Bear's birthday. She was having a party.  She asked her two best friends to
+come to the party.  She made a big cake, and hung up some balloons.
+
+Soon her friend Lion came over. Then her friend Tiger came over. Lion and Tiger brought
+presents with them.
+
+Jessie hugged her friends. She asked them if they would like to have cake. 
+
+Yes! said Lion. Yes yes! said Tiger. Jessie cut the cake, and they all ate it together.
+Then Jessie opened her presents. She got a new jump rope and a fun game.  She asked Lion
+and Tiger to play the game with her.
+
+The friends played and played. They all had a good time. Soon it was time for the party to
+be over.
+
+Lion and Tiger hugged Jessie and said goodbye to her.  Thanks for a great birthday! Jessie
+Bear told her two best friends.
+
+1: one: Who was having a birthday?
+*A) Jessie Bear
+ B) no one
+ C) Lion
+ D) Tiger
+
+2: multiple: Who didn't come to the party?
+ A) Lion
+ B) Tiger
+*C) Snake
+ D) Jessie Bear
+
+3: multiple: How did Jessie get ready for the party?
+ A) made cake and juice.
+*B) made cake and hung balloons.
+ C) made juice and cookies.
+ D) made juice and hung balloons.
+
+4: one: How many friends came to Jessie's party?
+ A) one
+*B) two
+ C) six
+ D) four
+
+
+***************************************************
+Story:            mc160.dev.1
+Author:           3466834307
+Work Time(s):     879
+
+Sally had a very exciting summer vacation. She went to summer camp for the first time. She
+made friends with a girl named Tina. They shared a bunk bed in their cabin. Sally's
+favorite activity was walking in the woods because she enjoyed nature. Tina liked arts and
+crafts. Together, they made some art using leaves they found in the woods. Even after she
+fell in the water, Sally still enjoyed canoeing. She was sad when the camp was over, but
+promised to keep in touch with her new friend.
+
+Sally went to the beach with her family in the summer as well. She loves the beach. Sally
+collected shells and mailed some to her friend, Tina, so she could make some arts and
+crafts with them. Sally liked fishing with her brothers, cooking on the grill with her dad,
+and swimming in the ocean with her mother.
+
+The summer was fun, but Sally was very excited to go back to school. She missed her
+friends and teachers. She was excited to tell them about her summer vacation.
+
+1: multiple: Who went to the beach with Sally?
+ A) her sisters
+ B) Tina
+*C) her brothers, mother, and father
+ D) herself
+
+2: multiple: What did Sally promise to do?
+ A) Learn to ride a bike.
+ B) Go to a baseball game.
+ C) Go back to the beach.
+*D) Keep in touch with her new friend, Tina.
+
+3: one: Why does Sally like walking in the woods?
+ A) She likes to climb trees.
+ B) She likes to play hide and go seek.
+ C) She likes to swim.
+*D) She likes nature.
+
+4: multiple: What did Sally do this summer?
+*A) She went to summer camp and the beach.
+ B) She went to Paris.
+ C) She went to a baseball game.
+ D) She went to summer school.
